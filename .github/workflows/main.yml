@@ -15,8 +15,6 @@ on:
 
 # A workflow run is made up of one or more jobs that can run sequentially or in parallel
 jobs:
-  # This workflow contains a single job called "build"
-  build:
     # Single deploy job since we're just deploying
   deploy:
     environment:

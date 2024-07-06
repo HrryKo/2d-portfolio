@@ -3,7 +3,7 @@
 import { defineConfig } from "vite";
 
 export default defineConfig({
-  base: "./2d-portfolio", // base for assets
+  base: "./2d-portfolio/", // base for assets
   build: {
     minify: "terser",
   },
